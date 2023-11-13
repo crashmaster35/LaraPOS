@@ -67,7 +67,7 @@ If you want to colaborate, just need to:
 
 Please try to maintain your translations up to date when the sistem continue growing.
 
-### Screenshots
+## Screenshots
 
 #### Product list
 
