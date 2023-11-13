@@ -51,11 +51,11 @@ Rename or copy `.env.example` file to `.env` 1.`php artisan key:generate` to gen
 1. Visit `localhost:8000` in your browser. Email: `admin@gmail.com`, Password: `admin123`.
 1. Online demo: [pos.khmernokor.com](https://pos.khmernokor.com/)
 
-### Locale translations
+## Locale translations
 
 Locale translations to any language, just need to duplicate the resources/lang/en folder to the language you want and then translate only the text on the array. Change on the .env file (for now) to the locale you want and ready. will be in the languate you need.
 
-## Locale colaborators
+### Locale colaborators
 
 If you want to colaborate, just need to:
 
