@@ -2,7 +2,7 @@
     <h1 align="center">Point of Sale in Laravel</h1>
 </p>
 
-The original project was created by angkosal/laravel-pos. And Abandoned. Thanks to him.
+The original project was created by angkosal/laravel-pos. And Abandoned. Thanks to him for his great job.
 
 ## Installation
 
